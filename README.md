@@ -5,9 +5,9 @@ The data and codes for reproducing all Figures and Tables in the manuscript of s
 **To the Editor and reviewers:**
 The following links will keep inactive before publication. Please use the private links in the manuscript to get exclusive access during the peer review.
 - **1. Section 1**
-  - Xu, Yungang (2020): Section_1.zip. figshare. Dataset. 
+  - Xu, Yungang (2020): Section_1.zip. figshare. Dataset. https://doi.org/10.6084/m9.figshare.11512167
 - **2. Section 2**
-  - Xu, Yungang (2020): Section_2.zip. figshare. Dataset. https://doi.org/10.6084/m9.figshare.11512167
+  - Xu, Yungang (2020): Section_2.zip. figshare. Dataset.
 - **3. Section 3**
   - Xu, Yungang (2020): Section_3.zip. figshare. Dataset. https://doi.org/10.6084/m9.figshare.11512071
 - **4. Section 4**
