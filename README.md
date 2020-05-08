@@ -7,7 +7,7 @@ The following links will keep inactive before publication. Please use the privat
 - **1. Section 1**
   - Xu, Yungang (2020): Section_1.zip. figshare. Dataset. https://doi.org/10.6084/m9.figshare.11512167
 - **2. Section 2**
-  - Xu, Yungang (2020): Section_2.zip. figshare. Dataset.
+  - Xu, Yungang (2020): Section_2.zip. figshare. Dataset. https://doi.org/10.6084/m9.figshare.12269534
 - **3. Section 3**
   - Xu, Yungang (2020): Section_3.zip. figshare. Dataset. https://doi.org/10.6084/m9.figshare.11512071
 - **4. Section 4**
