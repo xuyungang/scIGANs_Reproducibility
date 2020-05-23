@@ -18,6 +18,6 @@ The following links will keep inactive before publication. Please use the privat
   - Xu, Yungang (2020): Section_6.zip. figshare. Dataset. https://doi.org/10.6084/m9.figshare.11509773
 
 ## Manuscript
-https://www.biorxiv.org/content/10.1101/2020.01.20.913384v1
+https://www.biorxiv.org/content/10.1101/2020.01.20.913384v3
 ## scIGANs package
 https://github.com/xuyungang/scIGANs
